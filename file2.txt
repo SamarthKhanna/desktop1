@@ -1,0 +1,3 @@
+I have written the first line into this file.
+It's good to be working on GitHub like this.
+I hope I become a good worker.
